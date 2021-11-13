@@ -1,0 +1,22 @@
+1) Analyzing the data for bias and credibility
+2) importance of good and bad data 
+3) data ethics , privacy and access
+4) Biased data it can be symmetrically skew results in a certain direction ,making them unriable.
+5) Sampling Bias is when a sample isn't representative of the population as a whole.
+6) sample is chosen at random , so that all parts of the population have an equal chance of being included 
+
+Example , there are 50 students in one class, if majority of the class prefers warm or cold weather 
+
+survey the first 10 students we meet, based on their responses , we determine entire class prefers warm 
+weather.But wait, there's some bias there. Those first 10 people were all women , so only women were included in our survey.
+But it wasn't a survey wasn't a fair representatiojn of the entire class because it didn't include 
+all the genders, you'd have an unbiased sample. Unbiased Sampling results in a sample that's 
+representative of teh population being measured .
+
+working with the unbiased data is by bringing in the results to life with visualizations .
+
+Visualize the number of students in teh class overall, and their gender identities with a bar chart.
+
+Then compare that to a similar bar chart showing the students we surveyed.
+
+explore some other types of bias , and how to recognize them.
