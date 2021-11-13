@@ -1,0 +1,35 @@
+Crime Prediction Techniques :
+1) visualizing criminal network 
+2) reducing risks 
+3) increasing productivity of crime analysts
+
+helps in predicting correct place of crime and criminal as well as aids in keeping track of resources pertaining 
+to analysis of crime.
+This can be done by a fitting data mining approach,machine learning algorithms and staticstical tools.
+clustering in data mining :
+1) K-Means clustering 
+2) Density-based clustering 
+3) coweb clustering and filtered clustering techniques 
+
+ways to reduce the crime rates .
+other ways :
+1) Bayesian neural networks 
+2) Levenberg Marquardt
+3) scaled algorithm 
+
+Crime analysis involves : 
+1) extraction of crime patterns 
+2) prediction and crime detection
+
+visualizing techniques and a series of algorithms were used to find teh hidden human perceptions of crime in order
+to help the law enforcement agencies for better crime prediction.
+
+decision tree algorithms and k-means algorithm for developing a framework on criminal data analysis 
+
+Naive Bayesian and Back Propagation algorithms and developed an improved approach of these classification 
+algorihtms prediction of crime .
+
+used measures like accuracy and precision for comparing these algorithms. 
+Used support vector machine and regression for controlling complexity by aaplying absolute value combination technique 
+epsilon insensitive region of feature selection.
+
