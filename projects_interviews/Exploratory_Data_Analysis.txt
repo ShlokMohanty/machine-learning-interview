@@ -1,0 +1,22 @@
+EDA is used by data scientists to analyze and investigate data sets and summarize their main characteristics ,often 
+employing data visualization methods.determines the best to manipulate data sources to get the answers that we need,
+The main purpose of EDA is to help look at the data before making any assumptions .It can help identify obvious errors 
+pattern understanding within the data , detect outliers or anomalous events .
+
+tools for EDA:
+
+clustering and dimension redution techniques ,helps create graphical displays of high-dimensional data containing 
+many variables .
+
+Univariate visualization of each field in a the raw dataset and summary statistics.
+
+Bivariate visualizations and summary statistics that allow you to assess the relationship between each variable 
+in the dataset and the target variable 
+
+Multivariate visualizations for mapping and understanding interactions between different fields in teh data .
+
+K-means clustering is a clustering method in unsupervised learning where data poits are assigned into k groups 
+data points closest to a particular centroid will be clustered under the same category.
+
+Predictive models,such as linear regression , use statistics and data to predict outcomes .
+
