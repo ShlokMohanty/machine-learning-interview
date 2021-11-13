@@ -29,7 +29,18 @@ decision tree algorithms and k-means algorithm for developing a framework on cri
 Naive Bayesian and Back Propagation algorithms and developed an improved approach of these classification 
 algorihtms prediction of crime .
 
+measures like accuracy and precision for comparing these algorithms.
+
+Classification is a predictive technique which has been applied nominal labelling of classes and is used in crime analysis, weather forecasting.
+
 used measures like accuracy and precision for comparing these algorithms. 
 Used support vector machine and regression for controlling complexity by aaplying absolute value combination technique 
 epsilon insensitive region of feature selection.
+
+KNN usage for predicting crimes using data from National Crime Records Bureau
+
+usage of supervised machine learning technique and performed crime rate analysis including data 
+validation ,  Visualization ,cleaning of data and single, bi and multivariate analysis data modelling 
+which involved predictive model of machine learning 
+
 
