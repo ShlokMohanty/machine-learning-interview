@@ -20,3 +20,23 @@ data points closest to a particular centroid will be clustered under the same ca
 
 Predictive models,such as linear regression , use statistics and data to predict outcomes .
 
+Data Exploration :
+1) Visualize
+2) Find missing (NA)
+3) Look for correlations
+
+Data Cleaning :
+1) check : did we fix teh potential issues 
+
+Model Building :
+1) Visualize Results 
+2) Model Diagnostics 
+3) Residual Diagnostics 
+4) ROC Curves 
+5) etc
+
+Present Results :
+1) Charts 
+2) Graphs 
+3) Tables 
+4) Visualizations to explain model, explain results 
