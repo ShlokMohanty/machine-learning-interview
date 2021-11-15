@@ -1,0 +1,29 @@
+we will be having x and for each x we will be having y .
+x ---> a large list having a number of lists .
+images will be having the arrays in the list .
+when we get the new x we will compare it with the old x and see what answer do we get .
+use of flattening from 2d into 1d array :
+x ---> has 5 images of number 
+each image has some number of features 
+each of the lists will be having teh numbers so these numbers are called as the features .
+3 x 3 matrix we are going to have 9 features .
+
+
+[[0,255, 0 , 0 , 255, 0, 0 , 255, 0] --------> [1]
+ [255, 255, 0 , 0, 255, 255 , 0 , 0]--------> [2]
+ 
+ [0, 255, 0, 0, 200, 0, 0 , 255, 10 ] ---> image now ours machine learning model will put this entire data 
+ to the machine learning model to compare it with the test data 
+ so it looks similar and is comparable with the very first list or teh image array . so it will be 1.
+ for comparing teh flattening is required .
+ dimension of each image : 3 x 3 pixels 
+ in thiss dataset of the mnist dataset we have almost 20000 examples and 785 columns (features).
+ out of the 785 columns the 
+ dataset of an image whose size is 28 x 28 pixels .
+ y is the 0th column .
+ x = data[:, 1:]
+ y = data[:, 0]
+ for each x in the example we have a y .
+ 
+ K_Nearest Neighbors :
+1)
