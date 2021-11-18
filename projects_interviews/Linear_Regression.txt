@@ -1,0 +1,13 @@
+Linear Regression :
+why and what is it all about ?
+we have data some what like year of experience and the output is the salary .
+if we are fresher (0 yrs ) ----> 30000 slary 
+and we have 6 month of experience ----> 40000 salary 
+1 yr of experience ---> 60000 slarary 
+
+as there is increase in teh experience the salary is also increasing at the same time .
+X (sq feet) (10 sq feet)------> 1 lakh 
+            (50 sq feet)-------> 6 lakh 
+            (100 sq feet)-------> 
+            
+if we have the data that is linearly coordinated with the output o
