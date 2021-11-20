@@ -1,0 +1,12 @@
+Natural Lnaguage processing :
+1) subfield of AI 
+2) works on speech provided by the user 
+3) combining of the computer science , linguistics and machine learning to study how the computers and human communicate 
+in natural language.
+4) bridges the gap between humans and electronic devices.
+
+three different types of parts :
+1) Speech Recognition 
+2) Natural Language Processing 
+3) Natural Language Generation 
+
