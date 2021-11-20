@@ -1,0 +1,13 @@
+NLG is much simpler to accomplish .
+1) converts a computer's artificial Language into text and can also convert text into audible speech 
+using text-to-speech technology .
+
+2) data should be converted to text .online search to find the answer, and from there it decides that 
+the temperature , wind, and the humidity are teh factors that should should be read aloud to you .
+
+3) organizes the structure of how its going to say it .similar to NLU except backwards .
+can construct full sentences using a lexicon and a set of grammar rules.
+
+4) Finally, text-to-speech takes over.The text-to-speech prosody model to evluate tehtext and identity 
+breaks, duration , and pitch.using a speech database it combines all the recorded phonemes.
+
