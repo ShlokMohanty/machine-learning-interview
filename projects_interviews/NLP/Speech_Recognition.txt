@@ -1,0 +1,7 @@
+1) takes natural language --> converts into ---> AI .
+2) Hidden Markov Models---> statistical models that use mathematical calculations to determine what we say 
+in order to convert speech to text .
+
+3) HMM's do this by taking the input as what we say and breaks it down into small units and comparing it to 
+pre-recorded speech to figure out which phoneme you uttered in each unit 
+
