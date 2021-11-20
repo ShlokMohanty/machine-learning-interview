@@ -1,0 +1,6 @@
+1) computer must comprehend teh meaning of each word.
+2) figures if the word is a noun or a verb , whether its the past or present tense , and so on. 
+this is known as part of speech tagging(POS).
+3) A lexicon (a vocabularly ) and a set of grammatical rules are also built into NLP systems.
+4) several problems and challenges are faced in accomplishing this when considering problems 
+such as words having several meanings or different words having similar meanings(synonymy),
