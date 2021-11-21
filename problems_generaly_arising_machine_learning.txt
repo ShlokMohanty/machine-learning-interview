@@ -1,0 +1,69 @@
+main challenges of machine learning :
+1) select a learning algorithm and train it on some data , the two things that can go wrong :
+	1) bad algorithm and bad data 
+
+examples of bad data :
+1) insufficient quantitiy of training data :
+	1) lot of data for most of machine learning algorithms to work properly 
+for complex problems such as image or speech recognition we may need millions of examples 
+reusing parts of the existing model.
+
+The unreasonable effectiveness of data :
+once they were given enough data very different machine learning algorithms including fairly 
+simple ones , performed almost identically well on a complex problem of natural language 
+disambiguation 
+
+Non representative Training data :
+1) training data must be representative of the new cases we want to generalize .
+difference between ---> instance-based learningor model based learning .
+
+if you train a linear model on this data, we get the solid line , while the old model is represented 
+by the dotted line.by using a nonrepresentative training set , we trained a model that is unlikely 
+to make accurate predictions , especially for very poor and very rich countries .
+
+if sample is too small we will have sampling noise(that is , nonrepresentative data as a result of chance)
+this is called as the sampling bias.
+for example : say we want to build a system to recognize funk music videos. One way to build 
+our training set is to search "funk music" on youtube and use the resulting videos.
+but this assumes that Youtubes search engine returns a set of videos that are representative 
+of all the funk music videos on youtube.In reality , the search results are likely to be biased 
+towards popular artists 
+
+how else we can get large training set ?
+
+Poor Quality Data :
+if our training data is full of errors , outliers , and noise(due to poor-quality measurements), makes harder for 
+the system to detect the underlying patterns, so our system is less likely to perform well.
+It is often well worth the effort to spend time cleaning up our training data. 
+
+Most data scientists spend a significant part of their time doing just that.
+for example :
+
+1) If some instances are clearly outliers , it may help to simply discard them or try to fix the errors manually.
+
+2) If some instances are missing a few features(example , 5% of your customers did not specify their age), we must 
+decide whether to ignore this attribute altogether , ignore these instances , fill in the missing 
+values (example, with the median age), or train one model with the feature and one model without 
+it and so on .
+
+Irrelevant features :
+garbage in garbage out .
+system will only be capable of learning if the training data contains enough relevant features 
+this process is called the feature engineering , involves :
+1) Feature selection : selecting the most useful features to train on among existing features .
+2) Feature extraction : combining existing features to produce a more useful one (dimensionality reduction algorithms can help ).
+3) creating new features by gathering new data .
+
+Overfitting the training data :
+overfitting --> it means that the model performs well on the training data , but it does not 
+generalize well.
+
+
+complex models such as deep neural networks can detect subtle patterns in the data , but if the training 
+set is noisy , or if it is too small (sampling noise ), then the model is likely to detect 
+patterns in the noise itself.Obviously these patterns will not generalize to new instances .
+
+say we feed our life satisfaction model many more attributes , including uniformative ones such as the country's name .
+a complex model may detect patterns like the fact that all countries in the training data with a w in their name have 
+a life satisfaction greater than 7:
+New Zealand(7.3), Norway(7.4), Sweden(7.2), and Switzerland(7.5)
