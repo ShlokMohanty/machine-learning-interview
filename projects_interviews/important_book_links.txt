@@ -1,0 +1,47 @@
+1- Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+
+2-Natural Language Processing with Python by Steven Bird, Ewan Klein, and Edward Loper
+
+3- Neural Networks and Deep Learning by Michael Nielsen
+
+4-Automate the Boring Stuff with Python by Al Sweigart
+
+5-An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+
+6-Learning Deep Architectures for AI by Yoshua Bengio
+
+7- Python for Data Science Handbook by Jake VanderPlas
+
+8- The Hundred-Page Machine Learning Book by Andriy Burkov.
+
+9- A Course in Machine Learning by Hal Daumé III
+
+10- Intuitive ML and Big Data in C++, Scala, Java, and Python by Kareem Alkaseer
+
+11- Python Notes for Professionals book
+
+12- Learning Pandas
+
+13- Machine Learning - A First Course for Engineers and Scientists by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön
+
+14- Dive into Deep Learning by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
+
+15- A Comprehensive Guide to Machine Learning Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang, Jennifer Listgarten, Anant Sahai
+
+16- Data Mining and Analysis by Mohammed J. Zaki and Wagner Meira Jr.
+
+17- SQL Notes for Professionals book
+
+18- The Data Science Handbook by Carl Shan, Henry Wang, William Chen, and Max Song
+
+19- Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David 
+
+20-Algorithms Notes for Professionals book
+
+21-Bayesian Reasoning and Machine Learning by David Barber
+
+22- 800+ Q&As about: Stats, Python, ML, DL, NLP, CV, MLOps by Steve Nouri
+
+23- An Introduction/A History of Data Science
+
+24- Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan
