@@ -1,0 +1,38 @@
+Numpy :
+numerical python , is one of the most important foundational packages for numerical computing 
+in python.
+things that we may find interesting in numpy are :
+1) ndarray , an efficient multidimensional array providing fast array-oriented arithmetic operations
+and flexible broadcasting capabilities .
+
+2) Mathematical functions for fast operations on entire array of data without having to write loops.
+3)Tools for reading/writing array data to disk and working with the memory mapped files.
+4) A C API for connecting Numpy with libraries written in c,c++, or fortran .
+
+most imp areas for a data analyst to keep working on data using numpy :
+1) data munguing and cleaning --> Fast vectorized array operations 
+2) algorithms like sorting , unique, and set operations 
+3) descriptive stats and aggregating /summarizing data 
+4) relational data manipulations for merging and joining together heterogeneous datasets.
+5) expressing conditional logic as array expressions instead of loops with if-elif-else branches 
+6) Group-wise data manipulations 
+
+specially on tabular most of the analysts will use ---> pandas for tabular data .
+time series manipulation is not present in numpy .
+
+without the need for python loops numpy makes the advantage of doing the computations .
+
+multiplying each sequence by 2 :
+my_arr = np.arange(1000000)
+%time for _ in range(10): 
+my_arr2 = my_arr * 2
+
+cpu times : user 20 ms , sys: 50 ms , total = 70ms
+wall time: 72.4 ms
+
+%time for _ in range(10)
+my list2 = [x * 2 for x in my_list]
+cpu times : user 760 ms , sys: 290 ms, total: 1.05 s
+wall time : 1.05 s 
+
+ndarray : a multidimensional array object :
